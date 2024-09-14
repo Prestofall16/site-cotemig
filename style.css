@@ -1,0 +1,61 @@
+table{
+    width: 100%;
+    background-image: url(fundo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 780px;
+    }
+    td
+    {width: 25%;
+    
+    }
+    body{
+    margin: 0;
+    }
+    
+    .roxo{background-color: #3a0b63; height: 72px;}
+    
+    .rosa{background-color: rgba(251, 69, 199, 1);}
+    
+    .verde{background-color:#89f668;}
+    
+    .img{height: auto ;width: 459px; margin-right: 0px; margin-left: 15px;} 
+    
+    .google{height: auto;;width: 225px; margin-left: 80px;}
+    
+    .titulo{color: rgb(137, 246, 104);font-family: sans-serif; font-size: 24px;text-align: center;}
+    
+    .texto{color:rgb(137, 246, 104);font-family: sans-serif; font-size: 18px;text-align: center;}
+    
+    div{background-color:rgba(91, 16, 120, 1);background-size: cover;}
+    
+    .fundo{background-color: #3a0b63; }
+    
+    .texto2{color: rgb(255, 255, 255);text-align: center;}
+    
+    .titulo2{color: rgb(255, 255, 255);font-size: 30px; text-align: center;}
+    
+    .subtitulo{font-size: 17px;color: rgb(255, 255, 255);text-align: center; }
+    
+    .telefone{ width:286;max-width: 100%; height: auto; margin-left: 55px;}
+    
+    .matricula{width: 384px;   }
+    
+    .tech{width: 500px; border-width: 1px; margin-right: 50px; margin-bottom: 0px;border:0px; }
+    
+    .fundo1{background-color:rgba(91, 16, 120, 1);background-size: cover;}
+    
+    .texto3{font-size: 18px; color: rgb(102, 16, 131);text-align: center;}
+    
+    .icones{margin-left: 190px; margin-right: 1px;width: 151px; margin-bottom: 25px; }
+    
+    .icones1{margin-right: 175px; width: 151px; }
+    
+    .icones2{ margin-left: 175px; width: 151px; }
+    
+    .formulario{width: 100%; margin: 0%;}
+    
+    .titulo3{font-size: 32px; color: rgb(137, 246, 104);font-family: sans-serif; text-align: center;}
+    
+    .texto4{font-size: 24px;color:  rgb(137, 246, 104);font-family: sans-serif; text-align: center;}
+    
